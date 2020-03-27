@@ -96,7 +96,7 @@ def process_fips_quality(quality):
 
 
 def export_county_json():
-    county_data = get_county_data()
+    counties_by_str = get_county_data()[0]
     fips_subdir = export_dir / 'fips'
     fips_subdir.mkdir(parents=True, exist_ok=True)
-    write_json(fips_subdir / 'counties_population.json', county_data, indent=2, sort_keys=True)
+    write_json(fips_subdir / 'counties_population.json', counties_by_str, indent=2, sort_keys=True)

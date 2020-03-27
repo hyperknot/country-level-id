@@ -1,0 +1,24 @@
+# ISO 3166-2 list: AO
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Bengo | AO-BGO | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-BGO.geojson) | [OSM](https://www.openstreetmap.org/relation/1802539) | [Wikidata](https://www.wikidata.org/wiki/Q191299) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABengo%20Province) | 351,579
+Benguela | AO-BGU | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-BGU.geojson) | [OSM](https://www.openstreetmap.org/relation/1802540) | [Wikidata](https://www.wikidata.org/wiki/Q212786) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABenguela%20Province) | 2,036,662
+Bié | AO-BIE | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-BIE.geojson) | [OSM](https://www.openstreetmap.org/relation/1802541) | [Wikidata](https://www.wikidata.org/wiki/Q213977) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABi%C3%A9%20Province) | 
+Cabinda | AO-CAB | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-CAB.geojson) | [OSM](https://www.openstreetmap.org/relation/422607) | [Wikidata](https://www.wikidata.org/wiki/Q168787) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACabinda%20Province) | 
+Cuando Cubango | AO-CCU | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-CCU.geojson) | [OSM](https://www.openstreetmap.org/relation/568485) | [Wikidata](https://www.wikidata.org/wiki/Q215268) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACuando%20Cubango%20Province) | 
+Cuanza Norte | AO-CNO | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-CNO.geojson) | [OSM](https://www.openstreetmap.org/relation/1802542) | [Wikidata](https://www.wikidata.org/wiki/Q216834) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACuanza%20Norte%20Province) | 
+Cuanza Sul | AO-CUS | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-CUS.geojson) | [OSM](https://www.openstreetmap.org/relation/1802543) | [Wikidata](https://www.wikidata.org/wiki/Q216998) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACuanza%20Sul%20Province) | 
+Cunene | AO-CNN | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-CNN.geojson) | [OSM](https://www.openstreetmap.org/relation/422606) | [Wikidata](https://www.wikidata.org/wiki/Q216987) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACunene%20Province) | 965,288
+Huambo | AO-HUA | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-HUA.geojson) | [OSM](https://www.openstreetmap.org/relation/1802544) | [Wikidata](https://www.wikidata.org/wiki/Q218848) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHuambo%20Province) | 
+Huíla | AO-HUI | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-HUI.geojson) | [OSM](https://www.openstreetmap.org/relation/1802545) | [Wikidata](https://www.wikidata.org/wiki/Q214572) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHu%C3%ADla%20Province) | 
+Luanda | AO-LUA | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-LUA.geojson) | [OSM](https://www.openstreetmap.org/relation/1802546) | [Wikidata](https://www.wikidata.org/wiki/Q190066) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ALuanda%20Province) | 6,542,944
+Lunda Norte | AO-LNO | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-LNO.geojson) | [OSM](https://www.openstreetmap.org/relation/1802547) | [Wikidata](https://www.wikidata.org/wiki/Q214221) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ALunda%20Norte%20Province) | 
+Lunda Sul | AO-LSU | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-LSU.geojson) | [OSM](https://www.openstreetmap.org/relation/1802548) | [Wikidata](https://www.wikidata.org/wiki/Q219648) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ALunda%20Sul%20Province) | 
+Malanje | AO-MAL | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-MAL.geojson) | [OSM](https://www.openstreetmap.org/relation/422660) | [Wikidata](https://www.wikidata.org/wiki/Q219072) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AMalanje%20Province) | 
+Moxico | AO-MOX | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-MOX.geojson) | [OSM](https://www.openstreetmap.org/relation/1802549) | [Wikidata](https://www.wikidata.org/wiki/Q173988) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AMoxico%20Province) | 727,594
+Namibe | AO-NAM | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-NAM.geojson) | [OSM](https://www.openstreetmap.org/relation/1802550) | [Wikidata](https://www.wikidata.org/wiki/Q216819) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANamibe%20Province) | 471,613
+Uíge | AO-UIG | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-UIG.geojson) | [OSM](https://www.openstreetmap.org/relation/422659) | [Wikidata](https://www.wikidata.org/wiki/Q216972) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AU%C3%ADge%20Province) | 
+Zaire | AO-ZAI | [GeoJSON](../../export/geojson/q8/iso2/AO/AO-ZAI.geojson) | [OSM](https://www.openstreetmap.org/relation/422608) | [Wikidata](https://www.wikidata.org/wiki/Q196674) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AZaire%20Province) | 

@@ -1,0 +1,23 @@
+# ISO 3166-2 list: CF
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Bamingui-Bangoran | CF-BB | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-BB.geojson) | [OSM](https://www.openstreetmap.org/relation/2634506) | [Wikidata](https://www.wikidata.org/wiki/Q741025) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABamingui-Bangoran) | 43,229
+Bangui | CF-BGF | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-BGF.geojson) | [OSM](https://www.openstreetmap.org/relation/7322726) | [Wikidata](https://www.wikidata.org/wiki/Q3832) |  | 734,350
+Basse-Kotto | CF-BK | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-BK.geojson) | [OSM](https://www.openstreetmap.org/relation/2634533) | [Wikidata](https://www.wikidata.org/wiki/Q810484) | [Wikipedia](http://en.wikipedia.org/wiki/sg%3AS%C3%AAse%20t%C3%AE%20k%C3%B6m%C3%A4nd%C3%A2-k%C3%B6t%C3%A4%20t%C3%AE%20Do-K%C3%B6t%C3%B6) | 249,150
+Haut-Mbomou | CF-HM | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-HM.geojson) | [OSM](https://www.openstreetmap.org/relation/2634528) | [Wikidata](https://www.wikidata.org/wiki/Q848578) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHaut-Mbomou) | 57,602
+Haute-Kotto | CF-HK | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-HK.geojson) | [OSM](https://www.openstreetmap.org/relation/2634510) | [Wikidata](https://www.wikidata.org/wiki/Q848596) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHaute-Kotto) | 90,316
+Kémo | CF-KG | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-KG.geojson) | [OSM](https://www.openstreetmap.org/relation/2954782) | [Wikidata](https://www.wikidata.org/wiki/Q848572) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AK%C3%A9mo) | 118,420
+Lobaye | CF-LB | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-LB.geojson) | [OSM](https://www.openstreetmap.org/relation/3564719) | [Wikidata](https://www.wikidata.org/wiki/Q821037) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ALobaye%20%28pr%C3%A9fecture%29) | 246,875
+Mambéré-Kadéï | CF-HS | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-HS.geojson) | [OSM](https://www.openstreetmap.org/relation/2954783) | [Wikidata](https://www.wikidata.org/wiki/Q848567) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AMamb%C3%A9r%C3%A9-Kad%C3%A9%C3%AF) | 364,795
+Mbomou | CF-MB | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-MB.geojson) | [OSM](https://www.openstreetmap.org/relation/2634531) | [Wikidata](https://www.wikidata.org/wiki/Q848582) | [Wikipedia](http://en.wikipedia.org/wiki/sg%3AS%C3%AAse%20t%C3%AE%20k%C3%B6m%C3%A4nd%C3%A2-k%C3%B6t%C3%A4%20t%C3%AE%20Mb%C3%B6m%C3%BC) | 164,009
+Nana-Grébizi | CF-KB | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-KB.geojson) | [OSM](https://www.openstreetmap.org/relation/2954784) | [Wikidata](https://www.wikidata.org/wiki/Q856227) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ANana-Gr%C3%A9bizi) | 117,816
+Nana-Mambéré | CF-NM | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-NM.geojson) | [OSM](https://www.openstreetmap.org/relation/2954785) | [Wikidata](https://www.wikidata.org/wiki/Q742455) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ANana-Mamb%C3%A9r%C3%A9) | 233,666
+Ombella M'Poko | CF-MP | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-MP.geojson) | [OSM](https://www.openstreetmap.org/relation/2954675) | [Wikidata](https://www.wikidata.org/wiki/Q378970) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AOmbella-M%27Poko) | 356,725
+Ouaka | CF-UK | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-UK.geojson) | [OSM](https://www.openstreetmap.org/relation/2954786) | [Wikidata](https://www.wikidata.org/wiki/Q848560) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AOuaka) | 276,710
+Ouham | CF-AC | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-AC.geojson) | [OSM](https://www.openstreetmap.org/relation/2954787) | [Wikidata](https://www.wikidata.org/wiki/Q726620) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AOuham) | 369,220
+Ouham-Pendé | CF-OP | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-OP.geojson) | [OSM](https://www.openstreetmap.org/relation/2954276) | [Wikidata](https://www.wikidata.org/wiki/Q848591) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AOuham-Pend%C3%A9) | 430,506
+Sangha-Mbaéré | CF-SE | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-SE.geojson) | [OSM](https://www.openstreetmap.org/relation/2954788) | [Wikidata](https://www.wikidata.org/wiki/Q856237) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ASangha-Mba%C3%A9r%C3%A9) | 101,074
+Vakaga | CF-VK | [GeoJSON](../../export/geojson/q8/iso2/CF/CF-VK.geojson) | [OSM](https://www.openstreetmap.org/relation/2634498) | [Wikidata](https://www.wikidata.org/wiki/Q848585) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AVakaga) | 52,255

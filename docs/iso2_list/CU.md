@@ -1,0 +1,22 @@
+# ISO 3166-2 list: CU
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Artemisa | CU-15 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-15.geojson) | [OSM](https://www.openstreetmap.org/relation/2576644) | [Wikidata](https://www.wikidata.org/wiki/Q115325) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Artemisa) | 494,631
+Camagüey | CU-09 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-09.geojson) | [OSM](https://www.openstreetmap.org/relation/1854630) | [Wikidata](https://www.wikidata.org/wiki/Q215147) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Camag%C3%BCey) | 782,458
+Ciego de Avila | CU-08 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-08.geojson) | [OSM](https://www.openstreetmap.org/relation/1854631) | [Wikidata](https://www.wikidata.org/wiki/Q220692) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Ciego%20de%20%C3%81vila) | 422,576
+Cienfuegos | CU-06 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-06.geojson) | [OSM](https://www.openstreetmap.org/relation/1854632) | [Wikidata](https://www.wikidata.org/wiki/Q115444) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Cienfuegos) | 404,228
+Granma | CU-12 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-12.geojson) | [OSM](https://www.openstreetmap.org/relation/1854633) | [Wikidata](https://www.wikidata.org/wiki/Q115046) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Granma) | 835,675
+Guantánamo | CU-14 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-14.geojson) | [OSM](https://www.openstreetmap.org/relation/1854634) | [Wikidata](https://www.wikidata.org/wiki/Q115319) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Guant%C3%A1namo) | 515,428
+Havana | CU-03 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-03.geojson) | [OSM](https://www.openstreetmap.org/relation/1854615) | [Wikidata](https://www.wikidata.org/wiki/Q12588) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20La%20Habana) | 
+Holguín | CU-11 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-11.geojson) | [OSM](https://www.openstreetmap.org/relation/1854635) | [Wikidata](https://www.wikidata.org/wiki/Q115302) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Holgu%C3%ADn) | 1,037,161
+Isle of Youth | CU-99 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-99.geojson) | [OSM](https://www.openstreetmap.org/relation/1854614) | [Wikidata](https://www.wikidata.org/wiki/Q115027) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AIsla%20de%20la%20Juventud) | 84,263
+Las Tunas | CU-10 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-10.geojson) | [OSM](https://www.openstreetmap.org/relation/1854636) | [Wikidata](https://www.wikidata.org/wiki/Q115334) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Las%20Tunas) | 532,645
+Matanzas | CU-04 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-04.geojson) | [OSM](https://www.openstreetmap.org/relation/1854616) | [Wikidata](https://www.wikidata.org/wiki/Q115438) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AMatanzas%20Province) | 690,113
+Mayabeque | CU-16 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-16.geojson) | [OSM](https://www.openstreetmap.org/relation/2579313) | [Wikidata](https://www.wikidata.org/wiki/Q115310) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20Mayabeque) | 380,274
+Pinar del Rio | CU-01 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-01.geojson) | [OSM](https://www.openstreetmap.org/relation/1854617) | [Wikidata](https://www.wikidata.org/wiki/Q115497) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Pinar%20del%20R%C3%ADo) | 587,026
+Sancti Spiritus | CU-07 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-07.geojson) | [OSM](https://www.openstreetmap.org/relation/1923793) | [Wikidata](https://www.wikidata.org/wiki/Q115441) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Sancti%20Sp%C3%ADritus) | 463,458
+Santiago de Cuba | CU-13 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-13.geojson) | [OSM](https://www.openstreetmap.org/relation/1854638) | [Wikidata](https://www.wikidata.org/wiki/Q234200) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Santiago%20de%20Cuba) | 1,047,015
+Villa Clara | CU-05 | [GeoJSON](../../export/geojson/q8/iso2/CU/CU-05.geojson) | [OSM](https://www.openstreetmap.org/relation/1923804) | [Wikidata](https://www.wikidata.org/wiki/Q115434) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Villa%20Clara) | 803,562
