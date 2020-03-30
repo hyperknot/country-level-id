@@ -1300,7 +1300,7 @@ Name | FIPS | GeoJSON | population
 Allegany County | 24001 | [GeoJSON](../export/geojson/q8/fips/24/24001.geojson) | 70,416
 Anne Arundel County | 24003 | [GeoJSON](../export/geojson/q8/fips/24/24003.geojson) | 579,234
 Baltimore County | 24005 | [GeoJSON](../export/geojson/q8/fips/24/24005.geojson) | 827,370
-Baltimore city | 24510 | [GeoJSON](../export/geojson/q8/fips/24/24510.geojson) | 593,490
+Baltimore City | 24510 | [GeoJSON](../export/geojson/q8/fips/24/24510.geojson) | 593,490
 Calvert County | 24009 | [GeoJSON](../export/geojson/q8/fips/24/24009.geojson) | 92,525
 Caroline County | 24011 | [GeoJSON](../export/geojson/q8/fips/24/24011.geojson) | 33,406
 Carroll County | 24013 | [GeoJSON](../export/geojson/q8/fips/24/24013.geojson) | 168,447
@@ -1713,7 +1713,7 @@ St. Charles County | 29183 | [GeoJSON](../export/geojson/q8/fips/29/29183.geojso
 St. Clair County | 29185 | [GeoJSON](../export/geojson/q8/fips/29/29185.geojson) | 9,397
 St. Francois County | 29187 | [GeoJSON](../export/geojson/q8/fips/29/29187.geojson) | 67,215
 St. Louis County | 29189 | [GeoJSON](../export/geojson/q8/fips/29/29189.geojson) | 994,205
-St. Louis city | 29510 | [GeoJSON](../export/geojson/q8/fips/29/29510.geojson) | 300,576
+St. Louis City | 29510 | [GeoJSON](../export/geojson/q8/fips/29/29510.geojson) | 300,576
 Ste. Genevieve County | 29186 | [GeoJSON](../export/geojson/q8/fips/29/29186.geojson) | 17,894
 Stoddard County | 29207 | [GeoJSON](../export/geojson/q8/fips/29/29207.geojson) | 29,025
 Stone County | 29209 | [GeoJSON](../export/geojson/q8/fips/29/29209.geojson) | 31,952
@@ -3056,7 +3056,7 @@ Name | FIPS | GeoJSON | population
 --- | --- | --- | --: 
 Accomack County | 51001 | [GeoJSON](../export/geojson/q8/fips/51/51001.geojson) | 32,316
 Albemarle County | 51003 | [GeoJSON](../export/geojson/q8/fips/51/51003.geojson) | 109,330
-Alexandria city | 51510 | [GeoJSON](../export/geojson/q8/fips/51/51510.geojson) | 159,428
+Alexandria City | 51510 | [GeoJSON](../export/geojson/q8/fips/51/51510.geojson) | 159,428
 Alleghany County | 51005 | [GeoJSON](../export/geojson/q8/fips/51/51005.geojson) | 14,860
 Amelia County | 51007 | [GeoJSON](../export/geojson/q8/fips/51/51007.geojson) | 13,145
 Amherst County | 51009 | [GeoJSON](../export/geojson/q8/fips/51/51009.geojson) | 31,605
@@ -3067,41 +3067,41 @@ Bath County | 51017 | [GeoJSON](../export/geojson/q8/fips/51/51017.geojson) | 4,
 Bedford County | 51019 | [GeoJSON](../export/geojson/q8/fips/51/51019.geojson) | 78,997
 Bland County | 51021 | [GeoJSON](../export/geojson/q8/fips/51/51021.geojson) | 6,280
 Botetourt County | 51023 | [GeoJSON](../export/geojson/q8/fips/51/51023.geojson) | 33,419
-Bristol city | 51520 | [GeoJSON](../export/geojson/q8/fips/51/51520.geojson) | 16,762
+Bristol City | 51520 | [GeoJSON](../export/geojson/q8/fips/51/51520.geojson) | 16,762
 Brunswick County | 51025 | [GeoJSON](../export/geojson/q8/fips/51/51025.geojson) | 16,231
 Buchanan County | 51027 | [GeoJSON](../export/geojson/q8/fips/51/51027.geojson) | 21,004
 Buckingham County | 51029 | [GeoJSON](../export/geojson/q8/fips/51/51029.geojson) | 17,148
-Buena Vista city | 51530 | [GeoJSON](../export/geojson/q8/fips/51/51530.geojson) | 6,478
+Buena Vista City | 51530 | [GeoJSON](../export/geojson/q8/fips/51/51530.geojson) | 6,478
 Campbell County | 51031 | [GeoJSON](../export/geojson/q8/fips/51/51031.geojson) | 54,885
 Caroline County | 51033 | [GeoJSON](../export/geojson/q8/fips/51/51033.geojson) | 30,725
 Carroll County | 51035 | [GeoJSON](../export/geojson/q8/fips/51/51035.geojson) | 29,791
 Charles City County | 51036 | [GeoJSON](../export/geojson/q8/fips/51/51036.geojson) | 6,963
 Charlotte County | 51037 | [GeoJSON](../export/geojson/q8/fips/51/51037.geojson) | 11,880
-Charlottesville city | 51540 | [GeoJSON](../export/geojson/q8/fips/51/51540.geojson) | 47,266
-Chesapeake city | 51550 | [GeoJSON](../export/geojson/q8/fips/51/51550.geojson) | 244,835
+Charlottesville City | 51540 | [GeoJSON](../export/geojson/q8/fips/51/51540.geojson) | 47,266
+Chesapeake City | 51550 | [GeoJSON](../export/geojson/q8/fips/51/51550.geojson) | 244,835
 Chesterfield County | 51041 | [GeoJSON](../export/geojson/q8/fips/51/51041.geojson) | 352,802
 Clarke County | 51043 | [GeoJSON](../export/geojson/q8/fips/51/51043.geojson) | 14,619
-Colonial Heights city | 51570 | [GeoJSON](../export/geojson/q8/fips/51/51570.geojson) | 17,370
-Covington city | 51580 | [GeoJSON](../export/geojson/q8/fips/51/51580.geojson) | 5,538
+Colonial Heights City | 51570 | [GeoJSON](../export/geojson/q8/fips/51/51570.geojson) | 17,370
+Covington City | 51580 | [GeoJSON](../export/geojson/q8/fips/51/51580.geojson) | 5,538
 Craig County | 51045 | [GeoJSON](../export/geojson/q8/fips/51/51045.geojson) | 5,131
 Culpeper County | 51047 | [GeoJSON](../export/geojson/q8/fips/51/51047.geojson) | 52,605
 Cumberland County | 51049 | [GeoJSON](../export/geojson/q8/fips/51/51049.geojson) | 9,932
-Danville city | 51590 | [GeoJSON](../export/geojson/q8/fips/51/51590.geojson) | 40,044
+Danville City | 51590 | [GeoJSON](../export/geojson/q8/fips/51/51590.geojson) | 40,044
 Dickenson County | 51051 | [GeoJSON](../export/geojson/q8/fips/51/51051.geojson) | 14,318
 Dinwiddie County | 51053 | [GeoJSON](../export/geojson/q8/fips/51/51053.geojson) | 28,544
-Emporia city | 51595 | [GeoJSON](../export/geojson/q8/fips/51/51595.geojson) | 5,346
+Emporia City | 51595 | [GeoJSON](../export/geojson/q8/fips/51/51595.geojson) | 5,346
 Essex County | 51057 | [GeoJSON](../export/geojson/q8/fips/51/51057.geojson) | 10,953
 Fairfax County | 51059 | [GeoJSON](../export/geojson/q8/fips/51/51059.geojson) | 1,147,532
-Fairfax city | 51600 | [GeoJSON](../export/geojson/q8/fips/51/51600.geojson) | 24,019
-Falls Church city | 51610 | [GeoJSON](../export/geojson/q8/fips/51/51610.geojson) | 14,617
+Fairfax City | 51600 | [GeoJSON](../export/geojson/q8/fips/51/51600.geojson) | 24,019
+Falls Church City | 51610 | [GeoJSON](../export/geojson/q8/fips/51/51610.geojson) | 14,617
 Fauquier County | 51061 | [GeoJSON](../export/geojson/q8/fips/51/51061.geojson) | 71,222
 Floyd County | 51063 | [GeoJSON](../export/geojson/q8/fips/51/51063.geojson) | 15,749
 Fluvanna County | 51065 | [GeoJSON](../export/geojson/q8/fips/51/51065.geojson) | 27,270
 Franklin County | 51067 | [GeoJSON](../export/geojson/q8/fips/51/51067.geojson) | 56,042
-Franklin city | 51620 | [GeoJSON](../export/geojson/q8/fips/51/51620.geojson) | 7,967
+Franklin City | 51620 | [GeoJSON](../export/geojson/q8/fips/51/51620.geojson) | 7,967
 Frederick County | 51069 | [GeoJSON](../export/geojson/q8/fips/51/51069.geojson) | 89,313
-Fredericksburg city | 51630 | [GeoJSON](../export/geojson/q8/fips/51/51630.geojson) | 29,036
-Galax city | 51640 | [GeoJSON](../export/geojson/q8/fips/51/51640.geojson) | 6,347
+Fredericksburg City | 51630 | [GeoJSON](../export/geojson/q8/fips/51/51630.geojson) | 29,036
+Galax City | 51640 | [GeoJSON](../export/geojson/q8/fips/51/51640.geojson) | 6,347
 Giles County | 51071 | [GeoJSON](../export/geojson/q8/fips/51/51071.geojson) | 16,720
 Gloucester County | 51073 | [GeoJSON](../export/geojson/q8/fips/51/51073.geojson) | 37,348
 Goochland County | 51075 | [GeoJSON](../export/geojson/q8/fips/51/51075.geojson) | 23,753
@@ -3109,13 +3109,13 @@ Grayson County | 51077 | [GeoJSON](../export/geojson/q8/fips/51/51077.geojson) |
 Greene County | 51079 | [GeoJSON](../export/geojson/q8/fips/51/51079.geojson) | 19,819
 Greensville County | 51081 | [GeoJSON](../export/geojson/q8/fips/51/51081.geojson) | 11,336
 Halifax County | 51083 | [GeoJSON](../export/geojson/q8/fips/51/51083.geojson) | 33,911
-Hampton city | 51650 | [GeoJSON](../export/geojson/q8/fips/51/51650.geojson) | 134,510
+Hampton City | 51650 | [GeoJSON](../export/geojson/q8/fips/51/51650.geojson) | 134,510
 Hanover County | 51085 | [GeoJSON](../export/geojson/q8/fips/51/51085.geojson) | 107,766
-Harrisonburg city | 51660 | [GeoJSON](../export/geojson/q8/fips/51/51660.geojson) | 53,016
+Harrisonburg City | 51660 | [GeoJSON](../export/geojson/q8/fips/51/51660.geojson) | 53,016
 Henrico County | 51087 | [GeoJSON](../export/geojson/q8/fips/51/51087.geojson) | 330,818
 Henry County | 51089 | [GeoJSON](../export/geojson/q8/fips/51/51089.geojson) | 50,557
 Highland County | 51091 | [GeoJSON](../export/geojson/q8/fips/51/51091.geojson) | 2,190
-Hopewell city | 51670 | [GeoJSON](../export/geojson/q8/fips/51/51670.geojson) | 22,529
+Hopewell City | 51670 | [GeoJSON](../export/geojson/q8/fips/51/51670.geojson) | 22,529
 Isle of Wight County | 51093 | [GeoJSON](../export/geojson/q8/fips/51/51093.geojson) | 37,109
 James City County | 51095 | [GeoJSON](../export/geojson/q8/fips/51/51095.geojson) | 76,523
 King George County | 51099 | [GeoJSON](../export/geojson/q8/fips/51/51099.geojson) | 26,836
@@ -3123,67 +3123,67 @@ King William County | 51101 | [GeoJSON](../export/geojson/q8/fips/51/51101.geojs
 King and Queen County | 51097 | [GeoJSON](../export/geojson/q8/fips/51/51097.geojson) | 7,025
 Lancaster County | 51103 | [GeoJSON](../export/geojson/q8/fips/51/51103.geojson) | 10,603
 Lee County | 51105 | [GeoJSON](../export/geojson/q8/fips/51/51105.geojson) | 23,423
-Lexington city | 51678 | [GeoJSON](../export/geojson/q8/fips/51/51678.geojson) | 7,446
+Lexington City | 51678 | [GeoJSON](../export/geojson/q8/fips/51/51678.geojson) | 7,446
 Loudoun County | 51107 | [GeoJSON](../export/geojson/q8/fips/51/51107.geojson) | 413,538
 Louisa County | 51109 | [GeoJSON](../export/geojson/q8/fips/51/51109.geojson) | 37,591
 Lunenburg County | 51111 | [GeoJSON](../export/geojson/q8/fips/51/51111.geojson) | 12,196
-Lynchburg city | 51680 | [GeoJSON](../export/geojson/q8/fips/51/51680.geojson) | 82,168
+Lynchburg City | 51680 | [GeoJSON](../export/geojson/q8/fips/51/51680.geojson) | 82,168
 Madison County | 51113 | [GeoJSON](../export/geojson/q8/fips/51/51113.geojson) | 13,261
-Manassas Park city | 51685 | [GeoJSON](../export/geojson/q8/fips/51/51685.geojson) | 17,478
-Manassas city | 51683 | [GeoJSON](../export/geojson/q8/fips/51/51683.geojson) | 41,085
-Martinsville city | 51690 | [GeoJSON](../export/geojson/q8/fips/51/51690.geojson) | 12,554
+Manassas Park City | 51685 | [GeoJSON](../export/geojson/q8/fips/51/51685.geojson) | 17,478
+Manassas City | 51683 | [GeoJSON](../export/geojson/q8/fips/51/51683.geojson) | 41,085
+Martinsville City | 51690 | [GeoJSON](../export/geojson/q8/fips/51/51690.geojson) | 12,554
 Mathews County | 51115 | [GeoJSON](../export/geojson/q8/fips/51/51115.geojson) | 8,834
 Mecklenburg County | 51117 | [GeoJSON](../export/geojson/q8/fips/51/51117.geojson) | 30,587
 Middlesex County | 51119 | [GeoJSON](../export/geojson/q8/fips/51/51119.geojson) | 10,582
 Montgomery County | 51121 | [GeoJSON](../export/geojson/q8/fips/51/51121.geojson) | 98,535
 Nelson County | 51125 | [GeoJSON](../export/geojson/q8/fips/51/51125.geojson) | 14,930
 New Kent County | 51127 | [GeoJSON](../export/geojson/q8/fips/51/51127.geojson) | 23,091
-Newport News city | 51700 | [GeoJSON](../export/geojson/q8/fips/51/51700.geojson) | 179,225
-Norfolk city | 51710 | [GeoJSON](../export/geojson/q8/fips/51/51710.geojson) | 242,742
+Newport News City | 51700 | [GeoJSON](../export/geojson/q8/fips/51/51700.geojson) | 179,225
+Norfolk City | 51710 | [GeoJSON](../export/geojson/q8/fips/51/51710.geojson) | 242,742
 Northampton County | 51131 | [GeoJSON](../export/geojson/q8/fips/51/51131.geojson) | 11,710
 Northumberland County | 51133 | [GeoJSON](../export/geojson/q8/fips/51/51133.geojson) | 12,095
-Norton city | 51720 | [GeoJSON](../export/geojson/q8/fips/51/51720.geojson) | 3,981
+Norton City | 51720 | [GeoJSON](../export/geojson/q8/fips/51/51720.geojson) | 3,981
 Nottoway County | 51135 | [GeoJSON](../export/geojson/q8/fips/51/51135.geojson) | 15,232
 Orange County | 51137 | [GeoJSON](../export/geojson/q8/fips/51/51137.geojson) | 37,051
 Page County | 51139 | [GeoJSON](../export/geojson/q8/fips/51/51139.geojson) | 23,902
 Patrick County | 51141 | [GeoJSON](../export/geojson/q8/fips/51/51141.geojson) | 17,608
-Petersburg city | 51730 | [GeoJSON](../export/geojson/q8/fips/51/51730.geojson) | 31,346
+Petersburg City | 51730 | [GeoJSON](../export/geojson/q8/fips/51/51730.geojson) | 31,346
 Pittsylvania County | 51143 | [GeoJSON](../export/geojson/q8/fips/51/51143.geojson) | 60,354
-Poquoson city | 51735 | [GeoJSON](../export/geojson/q8/fips/51/51735.geojson) | 12,271
-Portsmouth city | 51740 | [GeoJSON](../export/geojson/q8/fips/51/51740.geojson) | 94,398
+Poquoson City | 51735 | [GeoJSON](../export/geojson/q8/fips/51/51735.geojson) | 12,271
+Portsmouth City | 51740 | [GeoJSON](../export/geojson/q8/fips/51/51740.geojson) | 94,398
 Powhatan County | 51145 | [GeoJSON](../export/geojson/q8/fips/51/51145.geojson) | 29,652
 Prince Edward County | 51147 | [GeoJSON](../export/geojson/q8/fips/51/51147.geojson) | 22,802
 Prince George County | 51149 | [GeoJSON](../export/geojson/q8/fips/51/51149.geojson) | 38,353
 Prince William County | 51153 | [GeoJSON](../export/geojson/q8/fips/51/51153.geojson) | 470,335
 Pulaski County | 51155 | [GeoJSON](../export/geojson/q8/fips/51/51155.geojson) | 34,027
-Radford city | 51750 | [GeoJSON](../export/geojson/q8/fips/51/51750.geojson) | 18,249
+Radford City | 51750 | [GeoJSON](../export/geojson/q8/fips/51/51750.geojson) | 18,249
 Rappahannock County | 51157 | [GeoJSON](../export/geojson/q8/fips/51/51157.geojson) | 7,370
 Richmond County | 51159 | [GeoJSON](../export/geojson/q8/fips/51/51159.geojson) | 9,023
-Richmond city | 51760 | [GeoJSON](../export/geojson/q8/fips/51/51760.geojson) | 230,436
+Richmond City | 51760 | [GeoJSON](../export/geojson/q8/fips/51/51760.geojson) | 230,436
 Roanoke County | 51161 | [GeoJSON](../export/geojson/q8/fips/51/51161.geojson) | 94,186
-Roanoke city | 51770 | [GeoJSON](../export/geojson/q8/fips/51/51770.geojson) | 99,143
+Roanoke City | 51770 | [GeoJSON](../export/geojson/q8/fips/51/51770.geojson) | 99,143
 Rockbridge County | 51163 | [GeoJSON](../export/geojson/q8/fips/51/51163.geojson) | 22,573
 Rockingham County | 51165 | [GeoJSON](../export/geojson/q8/fips/51/51165.geojson) | 81,948
 Russell County | 51167 | [GeoJSON](../export/geojson/q8/fips/51/51167.geojson) | 26,586
-Salem city | 51775 | [GeoJSON](../export/geojson/q8/fips/51/51775.geojson) | 25,301
+Salem City | 51775 | [GeoJSON](../export/geojson/q8/fips/51/51775.geojson) | 25,301
 Scott County | 51169 | [GeoJSON](../export/geojson/q8/fips/51/51169.geojson) | 21,566
 Shenandoah County | 51171 | [GeoJSON](../export/geojson/q8/fips/51/51171.geojson) | 43,616
 Smyth County | 51173 | [GeoJSON](../export/geojson/q8/fips/51/51173.geojson) | 30,104
 Southampton County | 51175 | [GeoJSON](../export/geojson/q8/fips/51/51175.geojson) | 17,631
 Spotsylvania County | 51177 | [GeoJSON](../export/geojson/q8/fips/51/51177.geojson) | 136,215
 Stafford County | 51179 | [GeoJSON](../export/geojson/q8/fips/51/51179.geojson) | 152,882
-Staunton city | 51790 | [GeoJSON](../export/geojson/q8/fips/51/51790.geojson) | 24,932
-Suffolk city | 51800 | [GeoJSON](../export/geojson/q8/fips/51/51800.geojson) | 92,108
+Staunton City | 51790 | [GeoJSON](../export/geojson/q8/fips/51/51790.geojson) | 24,932
+Suffolk City | 51800 | [GeoJSON](../export/geojson/q8/fips/51/51800.geojson) | 92,108
 Surry County | 51181 | [GeoJSON](../export/geojson/q8/fips/51/51181.geojson) | 6,422
 Sussex County | 51183 | [GeoJSON](../export/geojson/q8/fips/51/51183.geojson) | 11,159
 Tazewell County | 51185 | [GeoJSON](../export/geojson/q8/fips/51/51185.geojson) | 40,595
-Virginia Beach city | 51810 | [GeoJSON](../export/geojson/q8/fips/51/51810.geojson) | 449,974
+Virginia Beach City | 51810 | [GeoJSON](../export/geojson/q8/fips/51/51810.geojson) | 449,974
 Warren County | 51187 | [GeoJSON](../export/geojson/q8/fips/51/51187.geojson) | 40,164
 Washington County | 51191 | [GeoJSON](../export/geojson/q8/fips/51/51191.geojson) | 53,740
-Waynesboro city | 51820 | [GeoJSON](../export/geojson/q8/fips/51/51820.geojson) | 22,630
+Waynesboro City | 51820 | [GeoJSON](../export/geojson/q8/fips/51/51820.geojson) | 22,630
 Westmoreland County | 51193 | [GeoJSON](../export/geojson/q8/fips/51/51193.geojson) | 18,015
-Williamsburg city | 51830 | [GeoJSON](../export/geojson/q8/fips/51/51830.geojson) | 14,954
-Winchester city | 51840 | [GeoJSON](../export/geojson/q8/fips/51/51840.geojson) | 28,078
+Williamsburg City | 51830 | [GeoJSON](../export/geojson/q8/fips/51/51830.geojson) | 14,954
+Winchester City | 51840 | [GeoJSON](../export/geojson/q8/fips/51/51840.geojson) | 28,078
 Wise County | 51195 | [GeoJSON](../export/geojson/q8/fips/51/51195.geojson) | 37,383
 Wythe County | 51197 | [GeoJSON](../export/geojson/q8/fips/51/51197.geojson) | 28,684
 York County | 51199 | [GeoJSON](../export/geojson/q8/fips/51/51199.geojson) | 68,280
